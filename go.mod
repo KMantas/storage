@@ -1,4 +1,4 @@
-module github.com/matthewhartstonge/storage
+module github.com/KMantas/storage
 
 go 1.13
 
